@@ -25,7 +25,4 @@ The link for the website: https://chillflix-india.herokuapp.com/
 - [Vanshika Tibrewal](https://github.com/vanshikaT2)
 
 
-## Demonstration and Presentation
-
-Complete Demonstration of ChillFlix: 
 
